@@ -1,0 +1,36 @@
+{
+  "name": "goit-js-hw-12-countries",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vertraut/goit-js-hw-12-countries.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vertraut/goit-js-hw-12-countries/issues"
+  },
+  "homepage": "https://github.com/vertraut/goit-js-hw-12-countries#readme",
+  "dependencies": {
+    "@pnotify/animate": "^5.2.0",
+    "@pnotify/bootstrap4": "^5.2.0",
+    "@pnotify/font-awesome4": "^5.2.0",
+    "@pnotify/mobile": "^5.2.0",
+    "animate.css": "^3.7.2",
+    "bootstrap": "^4.5.3",
+    "font-awesome": "^4.7.0",
+    "lodash.debounce": "^4.0.8"
+  },
+  "devDependencies": {
+    "@pnotify/core": "^5.2.0",
+    "parcel-bundler": "^1.12.4",
+    "parcel-plugin-handlebars-precompile": "^1.0.2"
+  }
+}
